@@ -83,6 +83,7 @@ body {
 }
 
 /* Research Interests */
+/* Research Interests */
 ul {
     list-style-type: none;
     padding-left: 0;
@@ -92,14 +93,14 @@ ul li {
     margin-bottom: 0.5rem;
     color: #444;
     position: relative;
-    padding-left: 1.5rem;
+    padding-left: 0.8rem; /* This moves the text closer to the bullet */
 }
 
 ul li:before {
     content: '•';
     color: #2c3e50;
     position: absolute;
-    left: 0.5rem;
+    left: 0; /* This aligns the bullet perfectly with your section headers */
 }
 
 /* Projects */
