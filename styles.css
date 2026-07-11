@@ -11,7 +11,7 @@ body {
     color: #333;
     background-color: #fff;
     max-width: 95%; /* Allows the page to stretch across almost the whole screen */
-    margin: 40px 50px; /* 40px from the top, 50px from the left and right edges */
+    margin: 10px 10px; /* 40px from the top, 50px from the left and right edges */
     padding: 0;
 }
 
